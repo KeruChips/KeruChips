@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm KeruChips</h1>
 <h3 align="center">Software Developer from El Salvador 🇸🇻</h3>
 <p align="center">
-
   ✦ · · · · · · · · · · · ✦
 </p>
-<p>```
+<p align="center">```
                                            _.oo.
                  _.u[[/;:,.         .odMMMMMM'
               .o888UU[[[/;:-.  .o@P^    MMM^
