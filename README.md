@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm KeruChips</h1>
-<h3 align="center">Software Developer from El Salvador 🇸🇻</h3>
 <p align="center">
   ✦ · · · · · · · · · · · ✦
 </p>
@@ -15,7 +13,6 @@
   </pre>
 </div>
 <p align="center">
-
   ✦ · · · · · · · · · · · ✦
 </p>
 <br>
