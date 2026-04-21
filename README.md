@@ -3,7 +3,7 @@
 <p align="center">
   ✦ · · · · · · · · · · · ✦
 </p>
-<p align="center">```
+<div align="center">```
                                            _.oo.
                  _.u[[/;:,.         .odMMMMMM'
               .o888UU[[[/;:-.  .o@P^    MMM^
@@ -20,7 +20,7 @@
 YMMMUP^
  ^^ 
   ```
-</p>
+</div>
 <p align="center">
 
   ✦ · · · · · · · · · · · ✦
