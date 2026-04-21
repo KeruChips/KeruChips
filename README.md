@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm KeruChips</h1>
 <h3 align="center">Software Developer from El Salvador 🇸🇻</h3>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=200&section=header&text=Welcome&fontColor=ffffff&fontSize=40&animation=fadeIn" />
-</p>
-
-<p align="center">
-           .     *       .       .        *        .       .       *                  .-""""-.               .-'        '-.             .'              '.            /                  \           |      .-""""-.      |           |    .'  🌑   '.     |            \   \        /     /         _.-'    '-.__.-'    '-._      .-'    .-"""""""""""-.     '-.     /     .'               '.      \    |     /      =======      \      |    |    |     =========     |     |     \     \      =====      /    /      '-._  '.           .'  _.-'           '-._'-.____.-'_.-'                 /  |  \                *   |   *                    |                   * * </p>
-<br>
 🚀 About Me
 - 💻 Passionate about software development  
 - 🌱 Currently learning new technologies  
