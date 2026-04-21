@@ -3,10 +3,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=200&section=header&text=Welcome&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
-<!-- Saturno + estrellas -->
+
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ3b8k9hHW/giphy.gif" width="200"/>
-</p>
+           .     *       .       .        *        .       .       *                  .-""""-.               .-'        '-.             .'              '.            /                  \           |      .-""""-.      |           |    .'  🌑   '.     |            \   \        /     /         _.-'    '-.__.-'    '-._      .-'    .-"""""""""""-.     '-.     /     .'               '.      \    |     /      =======      \      |    |    |     =========     |     |     \     \      =====      /    /      '-._  '.           .'  _.-'           '-._'-.____.-'_.-'                 /  |  \                *   |   *                    |                   * * </p>
 <br>
 🚀 About Me
 - 💻 Passionate about software development  
@@ -33,12 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeruChips&layout=compact&theme=transparent&title_color=14b8a6&text_color=14b8a6&border_color=0f766e" />
 </p>
 <br>
-📫 Contact
-<p align="center">
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/email-0f766e?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7TKsQ8UQ3b8k9hHW/giphy.gif" width="200"/>
