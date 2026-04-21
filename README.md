@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm KeruChips</h1>
 <h3 align="center">Software Developer from El Salvador 🇸🇻</h3>
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ3b8k9hHW/giphy.gif" width="200"/>
+</p>
 🚀 About Me
 - 💻 Passionate about software development  
 - 🌱 Currently learning new technologies  
