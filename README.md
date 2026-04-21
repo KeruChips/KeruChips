@@ -3,7 +3,9 @@
 <p align="center">
   ✦ · · · · · · · · · · · ✦
 </p>
-<div align="center">```
+<div align="center">
+  <pre>
+    ```
   _                   
  | |                  
  | | _____ _ __ _   _ 
@@ -11,6 +13,7 @@
  |   <  __/ |  | |_| |
  |_|\_\___|_|   \__,_|
   ```
+  </pre>
 </div>
 <p align="center">
 
